@@ -27,3 +27,5 @@ function destuctivelyAddElementToEndOfArray(array,element){
   array.push(element)
 return
 }
+
+function addElementToBeginningOfArray()
