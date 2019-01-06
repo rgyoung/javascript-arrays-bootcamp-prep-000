@@ -6,7 +6,12 @@ chocolateBars[1]="reese's"
 var array
 var element
 
+function addElementToBeginningOfArray (array,element){
+  var NewArray=[element, ...array]
 
+
+
+}
 
 
 function destructivelyAddElementToBeginningOfArray (array,element){
